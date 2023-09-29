@@ -51,6 +51,3 @@ object Rodrigo {
 
 🏡 [Website][website] **|**
 👔 [LinkedIn][linkedin]
-
-##
-![Snake animation](https://github.com/mexirica/mexirica/blob/output/github-contribution-grid-snake.svg)
