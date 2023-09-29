@@ -8,11 +8,11 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```kotlin
 object Rodrigo {
- string Name = "Rodrigo Brás Mecheri"
- string Acknowledgements = "Full-Stack"
+ public string Name {get;} = "Rodrigo Brás Mecheri";
+ public string Acknowledgements {get;} = "Full-Stack";
 
- string PrimarySkillset = "Back-end C#"
- List<string> LanguagesAndFrameworks = ["Java", "SpringBoot","Python", "Django", "JavaScript", "Angular", "C#", ".NET"]
+ public string PrimarySkillset {get;} = "Back-end C#";
+ public List<string> LanguagesAndFrameworks {get;} = ["Java", "SpringBoot","Python", "Django", "JavaScript", "Angular", "C#", ".NET"];
 
 }
 ```
