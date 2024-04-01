@@ -12,7 +12,7 @@ object Rodrigo {
  public string Acknowledgements {get;} = "Full-Stack";
 
  public string PrimarySkillset {get;} = "Back-end C#";
- public List<string> LanguagesAndFrameworks {get;} = ["Java", "SpringBoot","Python", "Django", "JavaScript", "Angular", "C#", ".NET",Rust];
+ public List<string> LanguagesAndFrameworks {get;} = ["Java", "SpringBoot","Python", "Django", "JavaScript", "Angular", "C#", ".NET","Rust"];
 
 }
 ```
@@ -43,12 +43,10 @@ object Rodrigo {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mexirica&show_icons=true&theme=dracula&line_height=27" alt="Rodrigo Mecheri github stats"/>
 </a>
 
-[website]: https://rodrigomecheri.netlify.app/
 [linkedin]: https://www.linkedin.com/in/rodrigo-mecheri/
 
 <br>
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
 👔 [LinkedIn][linkedin]
