@@ -12,7 +12,7 @@ object Rodrigo {
  public string Acknowledgements {get;} = "Full-Stack";
 
  public string PrimarySkillset {get;} = "Back-end C#";
- public List<string> LanguagesAndFrameworks {get;} = ["Java", "SpringBoot","Python", "Django", "JavaScript", "Angular", "C#", ".NET"];
+ public List<string> LanguagesAndFrameworks {get;} = ["Java", "SpringBoot","Python", "Django", "JavaScript", "Angular", "C#", ".NET",Rust];
 
 }
 ```
@@ -23,6 +23,7 @@ object Rodrigo {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
