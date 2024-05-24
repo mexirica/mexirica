@@ -27,11 +27,7 @@ object Rodrigo {
 ## Status
 
 <a href="https://github.com/mexirica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexirica&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/mexirica">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mexirica&show_icons=true&theme=dracula&line_height=27" alt="Rodrigo Mecheri github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexirica&hide_progress=true&theme=dracula&hide=css,smalltalk,html,jupyter%20notebook,scss" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/rodrigo-mecheri/
