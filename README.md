@@ -12,7 +12,7 @@ object Rodrigo {
  public string Acknowledgements {get;} = "Back-end";
 
  public string PrimarySkillset {get;} = "C#/.NET";
- public List<string> LanguagesAndFrameworks {get;} = ["C#", ".NET","Rust", "Go"];
+ public List<string> LanguagesAndFrameworks {get;} = ["C#", "Rust", "Go"];
 
 }
 ```
