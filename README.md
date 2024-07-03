@@ -1,8 +1,8 @@
-# Olá devs 👋
+# Hi devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+I like to create great software and help other people do the same.
 
-## Mais sobre mim
+## About me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -17,7 +17,7 @@ object Rodrigo {
 }
 ```
 
-## Linguagens
+## Languages
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="http://rust-lang.org/logos/rust-logo-16x16.png"></code>
@@ -33,6 +33,6 @@ object Rodrigo {
 
 <br>
 
-## Rede sociais
+## Social medias
 
 👔 [LinkedIn][linkedin]
