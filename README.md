@@ -8,11 +8,11 @@ I like to create great software and help other people do the same.
 
 ```kotlin
 object Rodrigo {
- public string Name {get;} = "Rodrigo Brás Mecheri";
- public string Acknowledgements {get;} = "Back-end";
+ public readonly string Name {get;} = "Rodrigo Brás Mecheri";
+ public string Focus {get;} = "Back-end";
 
- public string PrimarySkillset {get;} = "C#/.NET";
- public List<string> LanguagesAndFrameworks {get;} = ["C#", "Rust", "Go"];
+ public string PrimarySkillset {get; set;} = "C#/.NET";
+ public List<string> Languages {get; set; } = ["C#", "Rust", "Go"];
 
 }
 ```
