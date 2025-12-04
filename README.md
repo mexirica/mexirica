@@ -1,13 +1,11 @@
-# Hi devs 👋
+# Hi devs <img align="left" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Programming animation" />
 
 I'm just a guy who likes programming 
 
 ## About me
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 ```csharp
-public class Rodrigo {
+public class Rodrigo : IBackendDev {
  public readonly string Name {get;} = "Rodrigo Brás Mecheri";
  public string Focus {get;} = "Back-end";
 
@@ -17,21 +15,13 @@ public class Rodrigo {
 }
 ```
 
-## Languages
+## Skills
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png"></code>
-
-## Status
-
-<a href="https://github.com/mexirica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexirica&hide_progress=true&theme=dracula&hide=css,smalltalk,html,jupyter%20notebook,scss" />
-</a>
-
-[linkedin]: https://www.linkedin.com/in/rodrigo-mecheri/
-
-<br>
-
-## Social medias
-
-👔 [LinkedIn][linkedin]
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"></code>
